@@ -1,0 +1,4 @@
+# Core library uses only the Python standard library (>= 3.7, for dataclasses).
+# matplotlib is required ONLY for the optional plotting helpers
+# (plot_packing) and the example scripts.
+matplotlib>=3.0
